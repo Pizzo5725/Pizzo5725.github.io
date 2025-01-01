@@ -7,12 +7,12 @@ h1 {
   text-weight: bold;
 }
 
-p {
+#text {
   text-align: center;
   text-weight: bold;
 }
 
-img {
+#image {
   text-align: center;
   height: 100px;
   width: 100px;
