@@ -4,16 +4,16 @@ body {
 
 h1 {
   text-align: center;
-  text-weight: bold:
+  text-weight: bold;
 }
 
-h2 {
+p {
   text-align: center;
   text-weight: bold;
 }
 
 img {
-  block-align: center;
+  text-align: center;
   height: 100px;
   width: 100px;
 }
