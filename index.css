@@ -13,7 +13,7 @@ h1 {
 }
 
 #image {
-  block-align: center;
+  text-align: center;
   height: 200px;
   width: 200px;
 }
