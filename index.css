@@ -2,18 +2,12 @@ body {
   background-color: green;
 }
 
-h1 {
-  text-align: center;
-  text-weight: bold;
-}
-
-#text {
+div {
   text-align: center;
   text-weight: bold;
 }
 
 #image {
-  align-content: center;
   height: 500px;
   width: 500px;
 }
